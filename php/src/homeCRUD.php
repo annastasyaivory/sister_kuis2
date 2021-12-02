@@ -38,9 +38,9 @@
 						</a>
 					</li>
 					<li>
-						<a href="loginPage.html" class="s-sidebar_nav-link">
-							<img src="logout.png" class="icon">  Logout
-						</a>
+					<a href="index.html" class="s-sidebar_nav-link">
+                            <i class="fa fa-sign-out"></i><em>Kembali</em>
+                        </a>
 					</li>
 				</ul>
 			</nav>
